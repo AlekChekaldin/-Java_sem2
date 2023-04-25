@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-24T10:18:28.669452100Z</date>
+  <millis>1682331508669</millis>
+  <nanos>452100</nanos>
+  <sequence>1</sequence>
+  <level>INFO</level>
+  <class>tasks_01_and_02</class>
+  <method>saveToFile</method>
+  <thread>1</thread>
+  <message>The output file has been successfully appended with new data</message>
+</record>
+</log>
